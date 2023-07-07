@@ -1,0 +1,16 @@
+{
+    "identifier": "gubeka.InvisibleAlert",
+    "name": "InvisibleAlert",
+    "organization": "Gubeka",
+    "description": "Alerts if a non-breaking space is present in your code",
+    "version": "0.1",
+    "categories": ["issues"],
+    "main": "main.js",
+    "activationEvents": ["*"],
+    "min_runtime": "10.0",
+    "entitlements": {
+        "process": true
+    },
+    "bugs": "https://github.com/Gugu7264/InvisibleAlert.novaextension/issues",
+    "repository": "https://github.com/Gugu7264/InvisibleAlert.novaextension"
+}
