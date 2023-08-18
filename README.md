@@ -1,8 +1,8 @@
 # InvisibleAlert extension
 
-This extension is capable of alerting you whenever a non-breaking space (NBSP) accidentally reached your code.
+This extension is capable of alerting you whenever an unwanted invisible character, such as a No-Break Space (NBSP) accidentally reached your code.
 It will provide an issue to the Nova editor, and will appear as a warning in your file.
-Never have accidental and unresolvable errors due to invisible non-breaking spaces anymore with InvisibleAlert!
+Never have accidental and unsolvable errors due to invisible non-breaking spaces anymore with InvisibleAlert!
 
 ![Alert example PHP](https://raw.githubusercontent.com/Gugu7264/InvisibleAlert.novaextension/main/Images/extension/php_example.png)
 ![Alert example Python](https://raw.githubusercontent.com/Gugu7264/InvisibleAlert.novaextension/main/Images/extension/python_example.png)
