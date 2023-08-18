@@ -3,7 +3,7 @@
     "name": "InvisibleAlert",
     "organization": "Gubeka",
     "description": "Creates an alert if an unwanted invisible character is present in your code",
-    "version": "1.1",
+    "version": "1.1.1",
     "categories": ["issues"],
     "main": "main.js",
     "activationEvents": ["*"],

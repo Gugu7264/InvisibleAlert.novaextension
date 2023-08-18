@@ -131,12 +131,6 @@ class InvisibleAlert {
         let cCode, o, issue;
         for (const c of doctext) {
             cCode = c.charCodeAt();
-            console.log(new Array(...invisibleCharCodes).join(' '));
-            console.log("Code", cCode);
-            console.log(invisibleCharCodes.has(cCode));
-            console.log(invisibleCharCodes.has(160));
-            console.log(invisibleCharCodes.has("160"));
-
             if (invisibleCharCodes.has(cCode)) {
                 o = invisibleChars[cCode];
                 issue = new Issue();
