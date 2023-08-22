@@ -3,14 +3,12 @@
     "name": "InvisibleAlert",
     "organization": "Gubeka",
     "description": "Creates an alert if an unwanted invisible character is present in your code",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "categories": ["issues"],
     "main": "main.js",
     "activationEvents": ["*"],
     "min_runtime": "10.0",
-    "entitlements": {
-        "process": true
-    },
+    "entitlements": {},
     "bugs": "https://github.com/Gugu7264/InvisibleAlert.novaextension/issues",
     "repository": "https://github.com/Gugu7264/InvisibleAlert.novaextension"
 }
